@@ -1,0 +1,70 @@
+============================================================
+  ObjtEdit — Object Editor for SA-MP
+  Copyright (c) 2026 @olverjs (olveirajs) — LostWay Studios
+  https://github.com/olveirajs
+============================================================
+
+LICENÇA DE USO PESSOAL — TODOS OS DIREITOS RESERVADOS
+
+Este software, incluindo todos os arquivos compilados (.amx),
+arquivos de configuração, scripts e documentação associada,
+é protegido por direitos autorais e disponibilizado EXCLUSIVAMENTE
+para uso pessoal e não comercial.
+
+------------------------------------------------------------
+PERMISSÕES
+------------------------------------------------------------
+
+  ✔  Você PODE baixar e executar este software localmente.
+  ✔  Você PODE utilizar as coordenadas e outputs gerados
+      pelo software nos seus próprios projetos SA-MP.
+  ✔  Você PODE estudar o funcionamento do software para
+      fins educacionais.
+
+------------------------------------------------------------
+RESTRIÇÕES
+------------------------------------------------------------
+
+  ✖  Você NÃO PODE redistribuir este software, no todo ou
+      em parte, em qualquer formato (compilado ou não).
+
+  ✖  Você NÃO PODE modificar, adaptar, traduzir ou criar
+      obras derivadas com base neste software e publicá-las.
+
+  ✖  Você NÃO PODE usar este software para fins comerciais,
+      incluindo venda, licenciamento ou prestação de serviços
+      pagos, sem autorização prévia e por escrito do autor.
+
+  ✖  Você NÃO PODE remover ou alterar este aviso de direitos
+      autorais, créditos ou qualquer referência aos autores
+      originais em quaisquer cópias do software.
+
+  ✖  O código-fonte (.pwn) NÃO É distribuído com este
+      repositório. Qualquer tentativa de descompilar,
+      fazer engenharia reversa ou reproduzir o código-fonte
+      sem autorização é expressamente proibida.
+
+------------------------------------------------------------
+ISENÇÃO DE GARANTIA
+------------------------------------------------------------
+
+Este software é fornecido "como está", sem garantia de
+qualquer tipo, expressa ou implícita. Em nenhuma hipótese
+o(s) autor(es) serão responsáveis por qualquer dano direto,
+indireto, incidental ou consequente resultante do uso
+ou da incapacidade de uso deste software.
+
+------------------------------------------------------------
+CONTATO E AUTORIZAÇÃO
+------------------------------------------------------------
+
+Para solicitar permissão além do escopo desta licença,
+entre em contato com o autor:
+
+  GitHub : https://github.com/olveirajs
+  Projeto: ObjtEdit — LostWay Studios
+
+============================================================
+  Este arquivo de licença deve ser mantido intacto em
+  todas as cópias ou distribuições autorizadas do software.
+============================================================
