@@ -1,0 +1,8 @@
+*.exe
+*.dll
+*.pdb
+*.ico
+pawno/
+samp-server.exe
+samp-npc.exe
+announce.exe

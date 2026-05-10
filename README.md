@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <h1>🎮 ObjtEdit — Object Editor for SA-MP</h1>
@@ -204,3 +205,6 @@ Para contato: github.com/olveirajs
 <div align="center">
   <sub>Feito com 💜 por <strong>@olverjs</strong> · LostWay Studios</sub>
 </div>
+=======
+# objtEdit
+>>>>>>> ba301400ceeb14fa7dee8d678155458a9392e038
