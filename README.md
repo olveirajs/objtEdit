@@ -151,20 +151,6 @@ SetPlayerAttachedObject(playerid, 0, 19572, 1,  0.0530, -0.2199, -0.1700,  0.000
 
 ---
 
-## 🔧 Compilação (opcional)
-
-> O `.amx` já está compilado e pronto. Só compile se quiser modificar.
-
-**1.** Abra o `pawno/pawno.exe`
-
-**2.** Abra o arquivo `gamemodes/objt.pwn`
-
-**3.** Pressione **F5** para compilar
-
-**4.** O novo `.amx` será gerado automaticamente em `gamemodes/`
-
----
-
 ## 👨‍💻 Autores
 
 | Dev | GitHub |
