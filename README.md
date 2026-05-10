@@ -191,4 +191,3 @@ Para contato: github.com/olveirajs
 <div align="center">
   <sub>Feito com 💜 por <strong>@olverjs</strong> · LostWay Studios</sub>
 </div>
-=======
