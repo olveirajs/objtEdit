@@ -28,7 +28,7 @@
 
 ![HUD](https://github.com/olveirajs/objtEdit/raw/main/preview/hud.png)
 
-> **Arquivo de saída gerado automaticamente**
+> **Menu de escolha do nome do projeto**
 
 ![Save](https://github.com/olveirajs/objtEdit/raw/main/preview/save.png)
 
