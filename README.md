@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 
 <h1>🎮 ObjtEdit — Object Editor for SA-MP</h1>
@@ -44,7 +43,8 @@
 - 💾 **Salvamento automático** — exporta `SetPlayerAttachedObject` pronto para uso no arquivo `scriptfiles/saveObjtEdit.txt`
 - 🖥️ **HUD visual** — 41 textdraws por jogador com todas as coordenadas em tempo real
 - 🏷️ **Sistema de projetos** — nomeie cada sessão de edição para organização
-- 🔑 **Tecla F** — abre/fecha o menu principal rapidamente
+- 🔑 **Tecla F** — abre o menu principal rapidamente
+- 🔒 **Tecla ESC** — fecha o menu principal
 
 ---
 
@@ -206,5 +206,3 @@ Para contato: github.com/olveirajs
   <sub>Feito com 💜 por <strong>@olverjs</strong> · LostWay Studios</sub>
 </div>
 =======
-# objtEdit
->>>>>>> ba301400ceeb14fa7dee8d678155458a9392e038
