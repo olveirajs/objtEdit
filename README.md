@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🎮 ObjtEdit — Object Editor for SA-MP</h1>
+<h1>🎮 ObjtEdit — Object Editor for SA-MP.</h1>
 
 <p>
   <strong>Editor de objetos acoplados ao corpo do personagem para servidores SA-MP.</strong><br/>
